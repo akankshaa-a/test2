@@ -1,0 +1,1 @@
+select * from table1 join table2 on something = something;
